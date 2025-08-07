@@ -213,7 +213,7 @@ You’ll see:
 
 ## 💬 Credits & Author
 
-Made by [Your Name or GitHub handle]  
+Made by Artic Blue  
 Beginner-level project to understand PyTorch, logic, and training basics
 
 ---
@@ -221,3 +221,4 @@ Beginner-level project to understand PyTorch, logic, and training basics
 ## ⭐ Star This Repo
 
 If you learned something from this project, consider starring ⭐ it to help others discover it!
+
